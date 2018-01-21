@@ -2,3 +2,8 @@ theme: jekyll-theme-minimal
 
 title: Colette & Eric
 description: In Which Colette & Eric Get Hitched
+authors: "Colette Alexander + Eric J. Humphrey"
+
+header_pages:
+ - about.md
+ - michigan.md
