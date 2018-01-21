@@ -1,3 +1,6 @@
+---
+layout: home
+---
 
 ![we're not cold, really](/images/huron_iphone.jpg)
 
