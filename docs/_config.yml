@@ -1,5 +1,29 @@
 theme: jekyll-theme-minimal
 
 title: Colette & Eric
-description: In Which Colette & Eric Get Hitched
+description: Good news, everyone! We're getting married!
 authors: "Colette Alexander + Eric J. Humphrey"
+
+menu:
+  brooklyn:
+    url: /brooklyn/
+    title: "July ?th – Brooklyn, NY"
+  michigan:
+    url: /michigan/
+    title: "Saturday, July 7th – Ann Arbor, MI"
+  massachusetts:
+    url: /massachusetts/
+    title: "Sunday, July 22nd – Webster, MA"
+  photos:
+    url: /photos/
+    title: "Photos!"
+  registry:
+    url: /registry/
+    title: "Registry"
+  about:
+    url: /about/
+    title: "About us"
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
