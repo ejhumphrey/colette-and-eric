@@ -6,23 +6,26 @@ authors: "Colette Alexander + Eric J. Humphrey"
 
 menu:
   brooklyn:
-    url: /brooklyn/
-    title: "July ?th – Brooklyn, NY"
+    url: /pages/brooklyn.html
+    title: "Friday, June 29th – Brooklyn, NY"
   michigan:
     url: /michigan/
     title: "Saturday, July 7th – Ann Arbor, MI"
   massachusetts:
     url: /massachusetts/
     title: "Sunday, July 22nd – Webster, MA"
+  about:
+    url: /about/
+    title: "About Us"
   photos:
     url: /photos/
-    title: "Photos!"
+    title: "Photos"
+  honeymoon:
+    url: /honeymoon/
+    title: "The Honeymoon"
   registry:
     url: /registry/
     title: "Registry"
-  about:
-    url: /about/
-    title: "About us"
 
 exclude:
   - Gemfile

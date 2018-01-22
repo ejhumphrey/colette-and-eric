@@ -1,8 +1,27 @@
 ---
-title: About
-permalink: /about/
+title: About Us
+<!-- permalink: /about/ -->
 ---
 
-## About C&E
+## Backstory
 
 Colette and Eric met on the high plains in the midst of a multi-week cat herding session.
+
+
+### Cast and Crew
+
+**Colette Alexander** - Bride
+
+**Malinda Allen** - Bridesmaid
+
+**Eric J. Humphrey** - Groom
+
+**Steven J. Humphrey** - Groomsman
+
+**Alicia Jo Rabins** - Bridesmaid
+
+**Kimberlee Salmond** - Bridesmaid
+
+**Tim Thomson** - Groomsman
+
+**Dylan Thompson** - Officiant
