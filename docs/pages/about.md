@@ -7,7 +7,7 @@ title: About Us
 
 Colette and Eric met on the high plains in the midst of a multi-week cat herding session.
 
-![test])(https://photos.app.goo.gl/gRs5PyFE43TUWNlw2)
+![test](https://photos.app.goo.gl/gRs5PyFE43TUWNlw2)
 
 ### Cast and Crew
 
