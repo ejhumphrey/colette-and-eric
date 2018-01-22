@@ -5,7 +5,7 @@ title: Brooklyn
 
 ## Friday, June 29th 2018 | TBD
 
-![tbd](/images/somewhere.jpg)
+![royal palms maybe?](https://static1.squarespace.com/static/55523370e4b012049c5fa690/55b92452e4b0453d11686df4/565f6508e4b04c5d15d721bf/1449092371350/Court+5.jpg?format=480w)
 
 <!-- pig beach, lavender lake, royal palms, givers and takers -->
 
