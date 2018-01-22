@@ -1,6 +1,5 @@
 ---
 title: Michigan
-<!-- permalink: /michigan/ -->
 ---
 
 ## Saturday, July 7th 2018 | Zingerman's Greyline
@@ -31,8 +30,12 @@ Start | Event
 
 ### Accommodations
 
-- [tbd] Hotel block at Residence Inn
-- Check AirBnB
+We're hoping to block out some rooms for out of town guests - stay tuned for more info. In the meantime, we're keeping an eye on the following:
+
+- [The Residence Inn Marriott](http://www.marriott.com/hotels/travel/arbdt-residence-inn-ann-arbor-downtown/)
+- [The Burnt Toast Inn](https://www.burnttoastinn.com/)
+- [AirBnB](https://www.airbnb.com/s/ann-arbor/homes)
+
 
 ### Getting to Ann Arbor
 
@@ -44,9 +47,10 @@ Fly to Detroit Airport (DTW), then you've got two options:
 
 ### Things to Do
 
-Downtown Ann Arbor is an active college town with plenty to eat, drink, see, and do. We've pulled out a few highlights to check out during your visit.
+Downtown Ann Arbor is an active college town with plenty to eat, drink, see, and do. We'll come up with some suggestions, just you wait.
+<!-- We've pulled out a few highlights to check out during your visit. -->
 
-**bars**
+<!-- **bars**
 - tbd
 - tbd
 
@@ -56,3 +60,4 @@ Downtown Ann Arbor is an active college town with plenty to eat, drink, see, and
 
 **other**
 - tbd
+ -->

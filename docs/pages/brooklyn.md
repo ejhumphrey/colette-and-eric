@@ -1,17 +1,14 @@
 ---
 title: Brooklyn
-<!-- permalink: /brooklyn/ -->
 ---
 
-## Friday, June 29th 2018 | TBD
+## Friday, June 29th 2018 | Gowanus
 
 ![royal palms maybe?](https://static1.squarespace.com/static/55523370e4b012049c5fa690/55b92452e4b0453d11686df4/565f6508e4b04c5d15d721bf/1449092371350/Court+5.jpg?format=480w)
 
 <!-- pig beach, lavender lake, royal palms, givers and takers -->
 
-Our wedding tour kicks off right in our backyard! Starting simple for our friends in the city, we'll follow up our formal nuptials at City Hall with an evening at [TBD](https://www.somwhere-fun.com/), a bar / restaurant in Gowanus.
-
-Maybe Royal Palms. We'll see what they say.
+Our wedding tour kicks off right in our backyard! Starting simple for our friends in the city, we'll follow up our formal nuptials at City Hall with an evening at (tentatively) [Royal Palms](http://www.royalpalmsshuffle.com/), a bar in Gowanus with a shuffleboard problem. We'll see what they say.
 
 
 ### Schedule (tentative)

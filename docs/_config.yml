@@ -24,7 +24,7 @@ menu:
     url: /pages/honeymoon
     title: "The Honeymoon"
   registry:
-    url: "https://foo.baz"
+    url: /pages/registry
     title: "Registry"
 
 exclude:

@@ -1,6 +1,5 @@
 ---
 title: Massachusetts
-<!-- permalink: /massachusetts/ -->
 ---
 
 ## Sunday, July 22nd 2018 | Point Breeze
@@ -45,13 +44,16 @@ You'll need to have / rent a car to get to Webster.
 
 ### Things to Do
 
-Hanging around Webster for the weekend? Here are a few local attractions you may want to consider:
+Hanging around Massachusetts for the weekend? There's some neat stuff nearby, but we'll pick out a few choice options as the date approaches.
+
+<!-- **bars**
+- tbd
+- tbd
 
 **restaurants**
--
-
-**bars**
--
+- tbd
+- tbd
 
 **other**
--
+- tbd
+ -->
