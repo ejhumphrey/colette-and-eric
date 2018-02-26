@@ -30,9 +30,7 @@ Start | Event
 
 ### Accommodations
 
-We're hoping to block out some rooms for out of town guests - stay tuned for more info. In the meantime, we're keeping an eye on the following:
-
-- [The Residence Inn Marriott](http://www.marriott.com/hotels/travel/arbdt-residence-inn-ann-arbor-downtown/)
+We have a [room block at the Marriott] (http://www.marriott.com/meeting-event-hotels/group-corporate-travel/groupCorp.mi?resLinkData=The%20Alexander%20%26%20Humphrey%20Wedding%20%5EARBDT%60AHWAHWA%60199%60USD%60false%602%607/6/18%607/8/18%606/6/18&app=resvlink&stop_mobi=yes) for out of town guests. It is adjacent to the Greyline, and the best option if you want to be close to the venue. If you'd prefer to stay elsewhere, here are some more options:
 - [The Burnt Toast Inn](https://www.burnttoastinn.com/)
 - [AirBnB](https://www.airbnb.com/s/ann-arbor/homes)
 
