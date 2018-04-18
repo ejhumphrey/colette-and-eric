@@ -15,11 +15,13 @@ Located on Webster Lake in southern Massachusetts, [Point Breeze](https://www.po
 
 Start | Event
 ------------ | -------------
-1:05p | Ceremony, followed by cocktails
-2:00p | Fishfry Lunch
+1:05p | Ceremony
+1:30p | Cocktail hour
+2:30p | Luncheon
 3:30p | Dancing and tunes
-6:30p | Last call
-7:00p | Heartfelt goodbyes
+6:00p | Last call
+6:30p | Heartfelt goodbyes
+7:00p | Afterparty maybe?
 
 
 ### Location
