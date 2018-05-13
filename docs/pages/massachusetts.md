@@ -31,17 +31,16 @@ Start | Event
 
 ### Accommodations
 
-The nearest area of interest to Webster is in the west, of Southbridge and Sturbridge. If you're looking to find a place to stay near the venue, we recommend the following.
-
-- [Southbridge Hotel and Conference Center](http://www.southbridgehotel.com/) – $114/night, 13 miles away
-- [Publick House](http://www.publickhouse.com/accommodations/publick-house-historic-inn) - $110/night, 17 miles
+We've put in for a room block in Smithfield RI at the [Hampton Inn & Suites](http://hamptoninn3.hilton.com/en/hotels/rhode-island/hampton-inn-and-suites-providence-smithfield-PVDSFHX/index.html). Please reach out to us for the group code! There's a pool and we've been told really nice WiFi. We know, right? You were on the fence, but *now* you're totally sold.
 
 
-### Getting to Webster, MA
+### Getting to Point Breeze
 
-The nearest airports are Worcester's Regional Airport (ORH), Providence's TF Green (PVD), or Boston's Logan (BOS).
+The nearest airports are Worcester's Regional Airport (ORH), Providence's TF Green (PVD), Hartford's Bradley International (BDL), or Boston's Logan (BOS).
 
-You'll need to have / rent a car to get to Webster.
+**NOTE!** We're trying to secure a bus / shuttle from the Hampton Inn & Suites to Point Breeze. Hopefully, this will be able to cover everyone at the hotel and then some. Stay tuned for more info.
+
+Otherwise, you'll need to have / rent / hire a car to get to Webster.
 
 
 ### Things to Do
