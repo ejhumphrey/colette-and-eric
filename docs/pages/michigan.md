@@ -48,7 +48,7 @@ Fly to Detroit Airport (DTW), then you've got two options:
 Downtown Ann Arbor is an active college town with plenty to eat, drink, see, and do. 
 We've pulled out a few highlights to check out during your visit.
 
--- **bars**
+**bars**
 - <b>The Bar at Braun Court</b> - a friend of ours owns it, so we might be partial, but we wish we could transport this place to wherever we live for the rest of our lives. Great cocktails, solid beer selection, good chill vibe.
 - <b>The Last Word</b> - a nice little basement-y speakeasy, very much a cocktail nerd's joint.
 - <b>The Ann Arbor Distillery</b> - a lovely place with a limited, but solid cocktail menu, plus you can buy bottles if you want.
