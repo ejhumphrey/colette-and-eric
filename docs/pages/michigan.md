@@ -45,17 +45,28 @@ Fly to Detroit Airport (DTW), then you've got two options:
 
 ### Things to Do
 
-Downtown Ann Arbor is an active college town with plenty to eat, drink, see, and do. We'll come up with some suggestions, just you wait.
-<!-- We've pulled out a few highlights to check out during your visit. -->
+Downtown Ann Arbor is an active college town with plenty to eat, drink, see, and do. 
+We've pulled out a few highlights to check out during your visit.
 
-<!-- **bars**
-- tbd
-- tbd
+-- **bars**
+- <b>The Bar at Braun Court</b> - a friend of ours owns it, so we might be partial, but we wish we could transport this place to wherever we live for the rest of our lives. Great cocktails, solid beer selection, good chill vibe.
+- <b>The Last Word</b> - a nice little basement-y speakeasy, very much a cocktail nerd's joint.
+- <b>The Ann Arbor Distillery</b> - a lovely place with a limited, but solid cocktail menu, plus you can buy bottles if you want.
 
 **restaurants**
-- tbd
-- tbd
+- <b>Zingerman's Deli</b> in Kerrytown - everything here is delicious, and there's a coffeeshop next door if you just want a sweets or caffeine fix
+- <b>Miss Kim's</b> in Kerrytown - the newest restaurant in the Zingerman's family is Korean, and a no-tipping establishment, and quite good. 
+- <b>Zingerman's Roadhouse</b> (Jackson and Maple) - a little bit on the outskirts of town (near the I94 Jackson exit), this is the BBQ place to eat at in Ann Arbor. We'll be having some of their food at our wedding so don't overdo it!
+- <b>Frita Batidos</b> - some great, casual cuban food.
+- <b>Spencer</b> - the new upstarts for downtown dinner, they have stunning food, the best wine list of any restaurant in the city, and super casual/counter-order/shared-picnic-table-seating, which is great for small-ish groups.
+- <b>Cafe Zola</b> - the best brunch downtown, lots of great mediterranean fare.
+- <b>Grange Kitchen & Bar</b> - good food either downstairs in the dining room or upstairs at the bar.
+- <b>Mani Osteria</b> - a newish downtown place, great small plates Italian fare and pizzas.
+- <b>Jerusalem Garden</b> - good solid mediterranean with lots of veggie options (I may have survived on their falafel in high school).
+- <b>Cottage Inn Pizza</b> - you could go to Dominos, or you could go super-native-Michigan and do Cottage Inn. 
+- <b>The Fleetwood</b> - if you want greasy diner food in downtown Ann Arbor at 2 AM, this is your spot.
 
 **other**
-- tbd
- -->
+- <b>The Ark</b> - a famous place in the folk world and one of Colette's favorite places to see or play a live show in Ann Arbor.
+- <b>The Blind Pig</b> - Nirvana played here before Nevermind was released, and Kurt Cobain was quoted as saying it was one of his favorite venues. You know what to do. \m/
+
